@@ -1,0 +1,37 @@
+/*reset*/
+*{
+    font-weight: bold;
+    box-sizing: border-box;    
+}
+
+nav{
+    font-size: 20px;
+}
+
+.banner-numb{
+    width: 100vw; 
+    margin-bottom: 20px;
+}
+
+.titulo{
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.valores{
+    list-style-type: square;
+    text-align: start;
+}
+.p-nosotros{
+    font-size: 20px;
+}
+
+.p-title-nosotros{
+    font-size: 35px;
+}
+
+.footer-pers{
+    margin-top: 70vh;
+}

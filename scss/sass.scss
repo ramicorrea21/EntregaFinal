@@ -1,0 +1,17 @@
+//////imports//////
+@import "../scss/bootstrap/bootstrap.scss";
+@import "../scss/styles.scss";
+@import "../scss/bootstrap/variables";
+
+//////patron colores bootstrap/////
+$principal: #2020fd;
+$secundario:#DCDCDC;
+$oscuro: #000000;
+$claro: #FFFFFF;
+
+/////modificar variables bootstrap/////
+$primary: $principal;
+$secondary: $secundario;
+$light: $claro;
+$dark: $oscuro;
+$enable-rounded: false; 
